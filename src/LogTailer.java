@@ -69,7 +69,6 @@ public class LogTailer implements Runnable{
 			e.printStackTrace();
 		}
 		
-		
 	}
 	
 	
